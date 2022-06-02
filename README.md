@@ -22,6 +22,8 @@ These filters can now help any user narrow down their search to find the details
 
 ## UFO Summary
 
+One of the drawbacks of this page is that the data covers a very short period of time.  Two weeks of data is not very much time, so I think the page could really show its power by adding data from longer period of time.  If the data table was added to, I think it would then makes sense to make the table itself scrollable so that you would not lose the title of the page and the filters by scrolling to the bottom of the webpage.  
+
 Despite Dana's webpage now being more dynamic I think there is still opportunity to provide a better filtering experience.  One improvement might be to have certain filters be dependent on one another.  For example, in order for a user to use the City filter they would need to select the State filter first.  This would alleviate the possibility of a user getting results in two different cities that happen to be named the same (Ex. Glendale, CA & Glendale, CO) if they were able to use the city filter only. 
 
 Another improvement might be to add a filter that allows you to search for key words within the *Comments* section of the table.  That would enable people to possibly find trends within the behavior of the different UFO sightings.  For example, the keyword "red" would return several events on different dates in different locations in which the person describing the instance called out the word "red", most commonly as it relates to lights they were seeing. Events described in similar ways across the world would definitely help identify trends as well.   
